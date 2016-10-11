@@ -1,5 +1,7 @@
 Scrabble
 =
+A simple tool to recover .git folder on remote server.
+
 ##Usage##
 	Scrabble.py <url>
 	
@@ -10,5 +12,4 @@ Scrabble
 * fztfztfztfzt@gmail.com
 
 ##Thanks##
-Thanks for denny0223's great work, I translate his tool from Shell to Python(https://github.com/denny0223/scrabble)
-
+Thanks for denny0223's great work, I translate his [Scrabble](https://github.com/denny0223/scrabble) from Shell to Python
